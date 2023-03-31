@@ -83,7 +83,7 @@ def decrypt(path, keyfilepath):
 if __name__ == '__main__':
 
     c = twint.Config()
-    c.Username = "KatVixie"
+    c.Username = "Paulstry"
     # c.Search = "White_Rose" # actual test case
     c.Search = '#White_Rose'
     # Have to add store object to be able to use the output
